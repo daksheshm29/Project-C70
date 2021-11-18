@@ -57,8 +57,8 @@ export default class WriteStoryScreen extends React.Component {
                     style={styles.storyText}
                   //  multiline={false}
                   //  multiline=true
-                    multiline="true"
-                  //  multiline={true}
+                  //  multiline="true"
+                   multiline={true}
                   />
                 
                 <TouchableOpacity
